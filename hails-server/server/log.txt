@@ -1,0 +1,1 @@
+729,1215,522,0,0,62,,,,0,0,7290ter Y , Glint Center X , Glint Center Y , Pupil Diameter , Blink , DbBlink , HeadGesture , GazeX , GazeY ,NaN
